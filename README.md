@@ -8,3 +8,4 @@ Identify customers most likely to complain after a disruption/service failure an
 
 SKU: PSVRC-PS-AIR-AWS-001
 
+AWS SageMaker: https://aws.amazon.com/marketplace/pp/prodview-esxwradlwg5ze
